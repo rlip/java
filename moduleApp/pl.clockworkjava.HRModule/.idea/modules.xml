@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../pl.clockworkjava.AccountingModule/pl.clockworkjava.AccountingModule.iml" filepath="$PROJECT_DIR$/../pl.clockworkjava.AccountingModule/pl.clockworkjava.AccountingModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pl.clockworkjava.HRModule.iml" filepath="$PROJECT_DIR$/pl.clockworkjava.HRModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pl.clockworkjava.MainModule/pl.clockworkjava.MainModule.iml" filepath="$PROJECT_DIR$/../pl.clockworkjava.MainModule/pl.clockworkjava.MainModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pl.clockworkjava.PayrollService/pl.clockworkjava.PayrollService.iml" filepath="$PROJECT_DIR$/../pl.clockworkjava.PayrollService/pl.clockworkjava.PayrollService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pl.clockworkjava.PolishPayroll/pl.clockworkjava.PolishPayroll.iml" filepath="$PROJECT_DIR$/../pl.clockworkjava.PolishPayroll/pl.clockworkjava.PolishPayroll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pl.clockworkjava.SupplyModule/pl.clockworkjava.SupplyModule.iml" filepath="$PROJECT_DIR$/../pl.clockworkjava.SupplyModule/pl.clockworkjava.SupplyModule.iml" />
+    </modules>
+  </component>
+</project>
