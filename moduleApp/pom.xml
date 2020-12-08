@@ -6,7 +6,7 @@
 	<groupId>pl.clockworkjava</groupId>
 	<artifactId>Modules-example</artifactId>
 	<version>1.0-SNAPSHOT</version>
-	<packaging>pom</packaging> <!-- pom, bo bêdzie pomem rodzicem dla ka¿dego z modu³ów -->
+	<packaging>pom</packaging> <!-- pom, bo bÃªdzie pomem rodzicem dla kaÂ¿dego z moduÂ³Ã³w -->
 
 	<name>Kurs Spring dla poczatkujacych</name>
 	<description>Demo project for Spring Boot</description>
@@ -36,7 +36,7 @@
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
-			<version>4.12</version>
+			<version>4.13.1</version>
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
